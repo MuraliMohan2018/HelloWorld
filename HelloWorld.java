@@ -6,7 +6,7 @@ class HelloWorld
     { 
         System.out.println("Welcome to Leena IT"); 
 		System.out.println("Thanks for joining the class Murali and Kalyan");
-		System.out.println("We are learning lot about DevOps");
+		System.out.println("We will discuss about DevOps topics day by day");
 		
     } 
 } 
